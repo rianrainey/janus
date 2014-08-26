@@ -1,0 +1,3 @@
+[submodule "gist-vim"]
+	path = gist-vim
+	url = git@github.com:mattn/gist-vim.git
